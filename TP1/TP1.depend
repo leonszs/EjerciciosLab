@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1587013536 source:c:\users\tuki\desktop\tp 1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1587013502 c:\users\tuki\desktop\tp 1\tp1\operaciones.h
+	<stdio.h>
+
+1587013595 source:c:\users\tuki\desktop\tp 1\tp1\operaciones.c
+	"operaciones.h"
+
