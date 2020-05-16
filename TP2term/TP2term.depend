@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1589652338 source:c:\users\tuki\desktop\tp2term\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"employee.h"
+
+1589652027 c:\users\tuki\desktop\tp2term\employee.h
+	<string.h>
+	"utn.h"
+
+1589652123 c:\users\tuki\desktop\tp2term\utn.h
+
+1589651074 source:c:\users\tuki\desktop\tp2term\main.c
+	<stdio.h>
+	<stdlib.h>
+	"employee.h"
+
+1589652123 source:c:\users\tuki\desktop\tp2term\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
